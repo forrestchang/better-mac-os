@@ -1,8 +1,6 @@
 
 # Better macOS
 
-[TOC]
-
 ## 系统设置
 
 ### General
@@ -27,9 +25,104 @@
 
 #### Moom
 
+#### HyperSwitch
+
+#### Gray
+
+#### Paste
+
 #### flux
+
+#### Irvue
 
 #### Squirrel 输入法
 
 #### Karabiner-Elements
+
+#### Shadowsocks
+
+#### Proxifier
+
+#### 1Password
+
+#### Chrome
+
+### 效率工具
+
+#### Alfred
+
+#### LaunchBar
+
+#### Keyboard Maestro
+
+#### Timing
+
+#### Toggl
+
+#### Pomotodo
+
+#### Rescuetime
+
+#### Fantastical
+
+#### OmniFocus
+
+##### Vibe
+
+### 阅读
+
+#### PDF Expert
+
+#### Reeder
+
+#### Instapaper
+
+#### Pocket
+
+### 笔记&写作
+
+#### Devonthink
+
+#### Evernote
+
+#### Mweb
+
+#### Ulysses
+
+#### Typora
+
+#### Pandoc
+
+#### TeXmacs
+
+#### Blog Workflow
+
+### 开发工具
+
+#### iTerm 2
+
+#### fish shell
+
+#### tmux
+
+#### Spacemacs
+
+#### Vim
+
+#### PyCharm
+
+#### VSCode
+
+#### Switchhosts
+
+#### Datagrip
+
+#### Medis
+
+#### Dash
+
+#### Postman
+
+
+
 

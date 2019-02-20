@@ -122,6 +122,8 @@
 
 #### Keyboard Maestro
 
+#### Focus
+
 #### Timing
 
 #### Toggl

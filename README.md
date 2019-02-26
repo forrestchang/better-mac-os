@@ -57,6 +57,8 @@
 
 #### Focus
 
+#### Timer
+
 #### Timing
 
 #### Toggl
@@ -134,6 +136,3 @@
 #### Last.fm
 
 #### IINA
-
-
-
